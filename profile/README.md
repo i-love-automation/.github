@@ -1,4 +1,4 @@
-# My awesome github organization:  !
+# My awesome github organization: i-love-automation !
 
 A brief description of your project would do wonders here !
 
