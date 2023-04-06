@@ -86,9 +86,9 @@ Pour que les modifications de la description de l'infrastructure soient appliqu�
 #### Déploiement
 
 - [Terraform Cloud](https://app.terraform.io/) est la plateforme proposée par HashiCorp pour administrer les modifications d'infrastructure
-  - Organization : [](https://app.terraform.io/app//workspaces)
+  - Organization : [i-love-automation](https://app.terraform.io/app/i-love-automation/workspaces)
   - Workspaces : `organization`
-    - [organization](https://app.terraform.io/app//workspaces/organization)
+    - [organization](https://app.terraform.io/app/i-love-automation/workspaces/organization)
 
 
 ## Licence
